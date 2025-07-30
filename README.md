@@ -50,7 +50,7 @@ firebase_core: ^2.23.0
 
 ### Data Storage in Firestore
 
-![Data Storage in Firestore](screenshots/05.jpg)
+![Data Storage in Firestore](screenshots/05.png)
 
 ## Getting Started
 
