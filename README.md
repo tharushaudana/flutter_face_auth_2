@@ -23,7 +23,7 @@ This is the updated version of the Flutter-based face authentication application
 ```yaml
 cupertino_icons: ^1.0.2
 camera: ^0.10.5+5
-google_mlkit_face_detection: ^0.9.0
+google_mlkit_face_detection: ^0.13.1
 image: ^3.0.2
 tflite_flutter: ^0.11.0
 cloud_firestore: ^4.13.2
