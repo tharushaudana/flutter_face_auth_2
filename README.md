@@ -36,13 +36,17 @@ firebase_core: ^2.23.0
 
 ![App Interface](screenshots/01.jpg)
 
-### Predicted Page
+### Register New Face Page (when a face not in the database is detected)
 
 ![Predicted Page](screenshots/02.jpg)
 
-### Data Storage in Firestore
+### Predicted Page
 
-![Data Storage in Firestore](screenshots/03.png)
+![Data Storage in Firestore](screenshots/03.jpg)
+
+### When a Face Is Not Detected Correctly
+
+![Data Storage in Firestore](screenshots/04.jpg)
 
 ## Getting Started
 
