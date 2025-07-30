@@ -46,7 +46,11 @@ firebase_core: ^2.23.0
 
 ### When a Face Is Not Detected Correctly
 
-![Data Storage in Firestore](screenshots/04.jpg)
+![When a Face Is Not Detected Correctly](screenshots/04.jpg)
+
+### Data Storage in Firestore
+
+![Data Storage in Firestore](screenshots/05.jpg)
 
 ## Getting Started
 
